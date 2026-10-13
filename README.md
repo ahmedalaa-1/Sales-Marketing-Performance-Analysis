@@ -38,7 +38,7 @@ This project explores four key business areas:
 
 ## 🔗 Project Links
 
-- 📊 **[View Interactive Dashboard on Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiMTU2YjY3NWEtMjZlNS00NGEwLWE4Y2YtZTAzMTkyZjI0MDJjIiwidCI6IjZhYWE0MDU0LTgzNGUtNGJiMi1hYzIwLWRkM2E0NmJiMzg5MiJ9)**
+- 📊 **[View Interactive Dashboard on Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiMTU2YjY3NWEtMjZlNS00NGEwLWE4Y2YtZTAzMTkyZjI0MDJjIiwidCI6IjZhYWE0MDU0LTgzNGEtNGJiMi1hYzIwLWRkM2E0NmJiMzg5MiJ9)**
 ---
 
 ## 📈 Dashboard Pages
