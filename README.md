@@ -1,4 +1,4 @@
-# 📊 Sales, Orders & Marketing Performance Analysis
+# 📊 Sales & Marketing Performance Analysis
 
 An end-to-end data analytics project built with **Power BI** to analyze sales performance, customer behavior, order fulfillment, revenue distribution, and marketing campaign efficiency. The project focuses on turning business data into actionable insights that support better decision-making.
 
@@ -38,7 +38,7 @@ This project explores four key business areas:
 
 ## 🔗 Project Links
 
-- 📊 **Power BI Service Dashboard:** [Insert Power BI Service Link Here]
+- 📊 **Power BI Service Dashboard:** [View Interactive Dashboard]([INSERT_POWER_BI_SERVICE_LINK_HERE](https://app.powerbi.com/view?r=eyJrIjoiMTU2YjY3NWEtMjZlNS00NGEwLWE4Y2YtZTAzMTkyZjI0MDJjIiwidCI6IjZhYWE0MDU0LTgzNGEtNGJiMi1hYzIwLWRkM2E0NmJiMzg5MiJ9))
 
 ---
 
@@ -55,9 +55,9 @@ Provides a high-level view of revenue performance, customer segments, product co
 - Revenue was distributed across multiple products rather than being dominated by a single product.
 - Marketing spend represented approximately **15.7% of revenue**.
 
-**📷 Dashboard Screenshot**
+**📷 Dashboard Preview**
 
-[Insert Sales Overview Screenshot Here]
+![Sales Overview](./dashboard/Dashboard.png)
 
 ---
 
@@ -74,9 +74,9 @@ Analyzes the order lifecycle from placement to payment, highlighting delivery de
 - Invoice-to-Payment time averaged **21.6 days**.
 - The SMB segment had the longest average shipping-to-delivery time among the three customer segments.
 
-**📷 Dashboard Screenshot**
+**📷 Dashboard Preview**
 
-[Insert Order Fulfillment Screenshot Here]
+![Order Fulfillment](./dashboard/Orders.png)
 
 ---
 
@@ -92,9 +92,9 @@ Examines revenue distribution across customers, regions, product categories, and
 - The top 12 products accounted for approximately **47% of revenue**.
 - Account managers showed differences in total revenue and revenue per customer, highlighting opportunities for further performance analysis.
 
-**📷 Dashboard Screenshot**
+**📷 Dashboard Preview**
 
-[Insert Revenue Analysis Screenshot Here]
+![Revenue Analysis](./dashboard/Revenue.png)
 
 ---
 
@@ -110,19 +110,19 @@ Evaluates campaign efficiency, spending distribution, engagement, and budget uti
 - Campaign-level budget utilization showed significant variations that require validation against the original budget data.
 - Similar Spring Launch campaign names and matching monthly totals indicate a potential campaign naming or data consistency issue.
 
-**📷 Dashboard Screenshot**
+**📷 Dashboard Preview**
 
-[Insert Marketing Campaign Screenshot Here]
+![Marketing Performance](./dashboard/Marketing.png)
 
 ---
 
 ## 🧩 Data Modeling
 
-The data model was designed to support analysis across sales, orders, customers, products, regions, account managers, and marketing campaigns.
+The data model supports analysis across sales, orders, customers, products, regions, account managers, and marketing campaigns.
 
-**📷 Data Model / Relationships**
+**📷 Data Model & Relationships**
 
-[Insert Data Model Screenshot Here]
+![Data Model](./Datamodel/datamodel.png)
 
 ---
 
@@ -153,3 +153,4 @@ The data model was designed to support analysis across sales, orders, customers,
 Aspiring Data Analyst focused on transforming raw data into meaningful insights using Power BI, SQL, Excel, and data visualization.
 
 - 💼 [LinkedIn Profile](INSERT_LINKEDIN_URL_HERE)
+
