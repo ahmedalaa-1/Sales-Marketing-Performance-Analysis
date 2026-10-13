@@ -151,5 +151,5 @@ The data model supports analysis across sales, orders, customers, products, regi
 
 Aspiring Data Analyst focused on transforming raw data into meaningful insights using Power BI, SQL, Excel, and data visualization.
 
-- 💼 [LinkedIn Profile](INSERT_LINKEDIN_URL_HERE)
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/-ahmedalaa-/)
 
